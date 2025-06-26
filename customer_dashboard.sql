@@ -37,3 +37,9 @@ FROM orders
 LEFT JOIN customers ON orders.customer_id = customers.customer_id
 GROUP BY customers.country
 ORDER BY orders_per_country DESC;
+
+-- Task 6: Show the average order value per status (Completed, Pending, etc.)
+SELECT status, AVG(total) AS average_value
+FROM orders
+GROUP BY status
+ORDER BY average_value DESC;
