@@ -28,7 +28,3 @@ My dream is to work remotely in tech, contribute to meaningful data solutions, a
 ---
 
 > 🕯️ This is my first published SQL project. Many more are coming!
-
----
-
-Download CV (PDF): file:///C:/Users/USER/Downloads/Desislava_Georgieva_CV.pdf
