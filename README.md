@@ -25,6 +25,3 @@ My dream is to work remotely in tech, contribute to meaningful data solutions, a
 
 📄 All SQL queries from this project are available here: [customer_dashboard.sql](./customer_dashboard.sql)
 
----
-
-> 🕯️ This is my first published SQL project. Many more are coming!
