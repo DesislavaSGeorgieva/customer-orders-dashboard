@@ -16,12 +16,6 @@ The project includes realistic business queries, such as:
 - SQL (JOIN, GROUP BY, HAVING, aggregate functions)
 - GitHub for portfolio tracking
 
-## 🙋‍♀️ About me
-
-My name is Desislava Georgieva. I’m transitioning into the tech world after earning a PhD in Art History and over a decade of analytical work.  
-I am currently focused on learning SQL and data analytics, building real projects from scratch.  
-My dream is to work remotely in tech, contribute to meaningful data solutions, and protect the place I call home.
-
 
 📄 All SQL queries from this project are available here: [customer_dashboard.sql](./customer_dashboard.sql)
 
