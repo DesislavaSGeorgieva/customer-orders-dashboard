@@ -17,13 +17,12 @@ The project includes realistic business queries, such as:
 - GitHub for portfolio tracking
 
 
+📄 All SQL queries from this project are available here: [customer_dashboard.sql](./customer_dashboard.sql)
+
+
 ## 👩‍💻 Author
 **Desislava Georgieva**  
 📫 strahilovaart@gmail.com  
 🔗 [GitHub Portfolio](https://github.com/DesislavaSGeorgieva)  
 🔗 [LinkedIn](https://www.linkedin.com/in/desislava-s-georgieva)
-
-
-
-📄 All SQL queries from this project are available here: [customer_dashboard.sql](./customer_dashboard.sql)
 
